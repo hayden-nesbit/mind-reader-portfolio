@@ -1,0 +1,21 @@
+#charList {
+    max-height: 350px;
+    min-height: 350px;
+    overflow: scroll;
+}
+
+#head {
+    min-height: 84px;
+    min-width: 492px;
+}
+/* 
+#image {
+    background-image: url("./mindread.jpg");
+    background-size: cover;
+    min-height: 625px;
+    max-height: 625px;
+}
+ */
+
+
+
